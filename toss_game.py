@@ -22,7 +22,7 @@ while True:
                 print("You Win The TOSS!")
                 win += 1
             elif user_input != toss:
-                print("You Lose THE TOSS!")``
+                print("You Lose THE TOSS!")
                 lose += 1
     else:
         print("You exited the program!")
